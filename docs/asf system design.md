@@ -66,14 +66,14 @@ b.  **Screen 2: Role Management**
 
 c.  Screen 3: Approval Workflow
 
-> [Supervisors]{.mark} or authorized users receive a notification.
+> [Supervisors]or authorized users receive a notification.
 >
-> [They can approve or reject the role change request.]{.mark}
+> [They can approve or reject the role change request.]
 >
 > Notification is sent back to the requester.
 
-d.  [Screen 4: Audit Log]{.mark}
+d.  [Screen 4: Audit Log]
 
-> [View a history of all role changes (who, what, when).]{.mark}
+> [View a history of all role changes (who, what, when).]
 >
-> [Filter by user, role, or date range.]{.mark}
+> [Filter by user, role, or date range.]
