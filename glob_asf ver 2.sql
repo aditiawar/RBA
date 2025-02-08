@@ -52,6 +52,7 @@ CREATE TABLE application (
     is_active boolean NOT NULL DEFAULT true,
     created_date timestamp with time zone NOT NULL DEFAULT CURRENT_TIMESTAMP,
     last_edit_date timestamp with time zone NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    application_owner character varying(50) NOT NULL,	
     PRIMARY KEY (application_cd)
 );
 
