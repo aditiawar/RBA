@@ -1,20 +1,20 @@
 1.  **Objective**:
 
- To provide a secure and efficient framework for managing user access
- rights to applications using Role-Based Access Control.
+    To provide a secure and efficient framework for managing user access
+    rights to applications using Role-Based Access Control.
 
-    **Key Goals**:
+        **Key Goals**:
 
-    Enable users to request new access rights or modify existing roles.
+        Enable users to request new access rights or modify existing roles.
 
-    Allow supervisors or authorized users to approve or manage roles for
-    other users.
+        Allow supervisors or authorized users to approve or manage roles for
+        other users.
 
-    Provide a user-friendly interface for self-service and delegated role
-    management.
+        Provide a user-friendly interface for self-service and delegated role
+        management.
 
-    Ensure security and compliance by maintaining an audit trail of role
-    changes.
+        Ensure security and compliance by maintaining an audit trail of role
+        changes.
 
 2.  **Key Features :**
 
@@ -77,3 +77,6 @@
         [View a history of all role changes (who, what, when).]
 
         [Filter by user, role, or date range.]
+        
+
+    ![use case diagram](asf_use_case.svg)
