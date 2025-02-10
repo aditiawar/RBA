@@ -79,4 +79,4 @@
         [Filter by user, role, or date range.]
         
 
-    ![use case diagram](asf_use_case.svg)
+    ![Use Case diagram](use_case.svg)
