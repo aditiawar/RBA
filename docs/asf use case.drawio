@@ -1,0 +1,100 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="bSxw1ifuJIfIma4la7Yl">
+        <mxGraphModel dx="1014" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-4" value="ASF" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="100" width="520" height="920" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5lzrHD_IBc6uoLuO4ha4-1" target="5lzrHD_IBc6uoLuO4ha4-15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5lzrHD_IBc6uoLuO4ha4-1" target="5lzrHD_IBc6uoLuO4ha4-26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-1" value="User" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="120" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5lzrHD_IBc6uoLuO4ha4-2" target="5lzrHD_IBc6uoLuO4ha4-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5lzrHD_IBc6uoLuO4ha4-2" target="5lzrHD_IBc6uoLuO4ha4-28" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5lzrHD_IBc6uoLuO4ha4-2" target="5lzrHD_IBc6uoLuO4ha4-30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5lzrHD_IBc6uoLuO4ha4-2" target="5lzrHD_IBc6uoLuO4ha4-32" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-2" value="Application Owner" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="465" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="5lzrHD_IBc6uoLuO4ha4-3" target="5lzrHD_IBc6uoLuO4ha4-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5lzrHD_IBc6uoLuO4ha4-3" target="5lzrHD_IBc6uoLuO4ha4-34" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5lzrHD_IBc6uoLuO4ha4-3" target="5lzrHD_IBc6uoLuO4ha4-39" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5lzrHD_IBc6uoLuO4ha4-3" target="5lzrHD_IBc6uoLuO4ha4-40" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5lzrHD_IBc6uoLuO4ha4-3" target="5lzrHD_IBc6uoLuO4ha4-41" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-3" value="IT Admin" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="695" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-5" value="Authenticate to&lt;div&gt;AD&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="460" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-6" value="Choose Application&amp;nbsp;&lt;div&gt;from the list user site application&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="120" width="140" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5lzrHD_IBc6uoLuO4ha4-1" target="5lzrHD_IBc6uoLuO4ha4-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-15" value="Request Approval for&lt;div&gt;Add Application Role&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;for other&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="220" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5lzrHD_IBc6uoLuO4ha4-1" target="5lzrHD_IBc6uoLuO4ha4-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-26" value="Request Approval for add or remove Application&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;role&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;for self&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="310" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-28" value="&lt;div&gt;Approve the request from user for application role&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="505" y="370" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-30" value="Copy existing role to new role and customize it&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="550" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-32" value="Request Approval for activate new role" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="640" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-34" value="&lt;div&gt;Approve the request from application owner for activate new role&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="325" y="730" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-36" value="&lt;div&gt;Remove user from Application role&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="530" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.02;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5lzrHD_IBc6uoLuO4ha4-2" target="5lzrHD_IBc6uoLuO4ha4-36" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-39" value="Manage Application list" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="860" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-40" value="Manage role list" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="335" y="940" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="5lzrHD_IBc6uoLuO4ha4-41" value="Manage userlist" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="515" y="830" width="140" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
